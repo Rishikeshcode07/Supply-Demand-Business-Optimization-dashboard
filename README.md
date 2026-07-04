@@ -3,6 +3,8 @@
 
 ### Tool Used : Power BI Desktop | Excel | Python | SQL | AWS
 
+## Dashboard Link : https://drive.google.com/file/d/127Tw9Z2YiiFwtKFnHnBfhszjUaW574Jo/view?usp=sharing
+
 ---
 
 ## Problem Statement
